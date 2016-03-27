@@ -16,4 +16,4 @@ If you are participatring in the translation program, you are providing translat
    [2]: https://poeditor.com/join/project/ZQrwPFaij0
    [3]: https://creativecommons.org/licenses/by/4.0/
    [4]: https://creativecommons.org/publicdomain/zero/1.0/
-   [5]: https://github.com/easy4u/writerplus-community/special.thanks.md
+   [5]: https://github.com/easy4u/writerplus-community/blob/master/special.thanks.md
