@@ -2,8 +2,7 @@
 
 ## Translations
 
-- German: 
-- German:
+- German: [GabrielPBC][1]
 - Spanish: 
 - French: 
 - Portugese: 
@@ -11,5 +10,8 @@
 - Italian:
 
 ## Testing
+
+
+    [1]: https://twitter.com/PBCGabriel
 
 
