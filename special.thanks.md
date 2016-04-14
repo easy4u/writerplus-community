@@ -6,7 +6,7 @@
 - Spanish: 
 - French: 
 - Portugese: 
-- Russian:
+- Russian: Dmitry Smirnov
 - Italian:
 
 ## Testing
