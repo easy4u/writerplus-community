@@ -4,14 +4,14 @@
 
 - German: [GabrielPBC][1]
 - Spanish: 
-- French: 
+- French: Jim Holgate
 - Portugese: 
 - Russian: Dmitry Smirnov
 - Italian:
 
 ## Testing
 
-Yohanes Willy, 夏天的西瓜°丟心, Kitsch, 
+Yohanes Willy, 夏天的西瓜°丟心, Kitsch, 唐颂
 
 
 [1]: https://twitter.com/PBCGabriel
