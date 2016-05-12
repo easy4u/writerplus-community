@@ -7,7 +7,7 @@
 - French: Jim Holgate
 - Portugese: 
 - Russian: Dmitry Smirnov
-- Italian:
+- Italian: Maurizio Ciampa
 
 ## Testing
 
