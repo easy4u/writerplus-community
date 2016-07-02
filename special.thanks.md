@@ -5,7 +5,7 @@
 - German: [GabrielPBC][1]
 - Spanish: 
 - French: Jim Holgate
-- Portugese: 
+- Portuguese: 
 - Russian: Dmitry Smirnov
 - Italian: Maurizio Ciampa
 
