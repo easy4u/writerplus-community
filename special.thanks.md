@@ -3,11 +3,12 @@
 ## Translations
 
 - German: [GabrielPBC][1]
-- Spanish: 
+- Spanish: Selenna, Hernan Ortegon Ochoa
 - French: Jim Holgate
-- Portuguese: 
+- Portuguese: Myreli Borba
 - Russian: Dmitry Smirnov
 - Italian: Maurizio Ciampa
+- Japanese: 
 
 ## Testing
 
