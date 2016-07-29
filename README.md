@@ -6,7 +6,7 @@ An issue tracker for the WriterPlus Project
 
 ## Help with translations:
 
-### [English, German, Spanish, French, Portugese, Russian, Italian][2]
+### [English, German, Spanish, French, Portugese, Russian, Italian, Japanese][2]
 
 Follow the links above, register and choose a lannguage to translate. If you found an issue with any existing translation, please add a comment or fix it. If you can not find the language you need, please contact me via the "Email us" in the about page of WriterPlus App, and I will add it.
 
