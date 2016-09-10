@@ -8,6 +8,7 @@
 - Portuguese: Myreli Borba
 - Russian: Dmitry Smirnov
 - Italian: Maurizio Ciampa
+- Polish: Karol Szcześniak
 - Japanese: 
 
 ## Testing
