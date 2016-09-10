@@ -4,6 +4,8 @@ An issue tracker for the WriterPlus Project
 
 ## [Create a new issue or view all issues][1]
 
+## [Help to test BETA version][6]
+
 ## Help with translations:
 
 ### [English, German, Spanish, French, Portugese, Russian, Italian, Japanese][2]
@@ -17,3 +19,4 @@ If you are participatring in the translation program, you are providing translat
    [3]: https://creativecommons.org/licenses/by/4.0/
    [4]: https://creativecommons.org/publicdomain/zero/1.0/
    [5]: https://github.com/easy4u/writerplus-community/blob/master/special.thanks.md
+   [6]: https://play.google.com/apps/testing/co.easy4u.writer
