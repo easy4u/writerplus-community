@@ -9,6 +9,7 @@
 - Russian: Dmitry Smirnov
 - Italian: Maurizio Ciampa
 - Polish: Karol Szcześniak
+- Turkish: Evrim Altay KOLUAÇIK
 - Japanese: 
 
 ## Testing
