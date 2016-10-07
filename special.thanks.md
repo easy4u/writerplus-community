@@ -22,10 +22,11 @@ Yohanes Willy, 夏天的西瓜°丟心, Kitsch, 唐颂
 
 ## Proofreading
 
-Priya Agarwal
+[Priya Agarwal][3]
 
 
 [1]: https://twitter.com/PBCGabriel
 [2]: https://amusing2writenc.wordpress.com/2016/06/21/writer-plus-app/
+[3]: www.freelancer.com/u/priya96411.html
 
 
