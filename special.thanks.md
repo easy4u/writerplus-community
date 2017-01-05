@@ -18,8 +18,7 @@ Yohanes Willy, 夏天的西瓜°丟心, Kitsch, 唐颂
 
 ## Promotion
 
-[Jamie Wood][2]
-[Waliyulah Olayiwola][4]
+[Jamie Wood][2], [Waliyulah Olayiwola][4]
 
 ## Proofreading
 
