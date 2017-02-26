@@ -3,6 +3,7 @@
 - [How to become a beta tester?](#beta)
 - [How to transfer files between your device and PC?](#transfer)
 - [How to change the language spell checker?](#spell)
+- [Test](#test-test)
 
 
 <h3 id="beta">How to become a beta tester?</h3>
@@ -26,3 +27,8 @@ For Mac Transfer and more information, please refer to: https://support.google.c
 <h3 id="spell">How to change the language spell checker?</h3>
 
 The spellcheck depends on the system settings of the device. Please go to System Settings -> Language & input -> Spell checker -> Language, and change the language.
+
+## Test Test
+
+sdfsfsfsdf
+
