@@ -28,7 +28,7 @@ For Mac Transfer and more information, please refer to: https://support.google.c
 
 The spellcheck depends on the system settings of the device. Please go to System Settings -> Language & input -> Spell checker -> Language, and change the language.
 
-## Test Test
+### Test Test
 
 sdfsfsfsdf
 
