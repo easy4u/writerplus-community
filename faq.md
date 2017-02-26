@@ -2,7 +2,7 @@
 
 - [How to become a beta tester?](#how-to-become-a-beta-tester)
 - [How to transfer files between device and PC?](#how-to-transfer-files-between-device-and-pc)
-- [How to change the language spell checker?](#how-to-change-the language-spell-checker)
+- [How to change the language spell checker?](#how-to-change-the-language-spell-checker)
 
 ### How to become a beta tester?
 
