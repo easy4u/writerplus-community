@@ -1,14 +1,14 @@
 # Questions & Answers
 
-- [How to become a beta tester?](#how-to-become-a-beta-tester)
-- [How to transfer files between device and PC?](#how-to-transfer-files-between-device-and-pc)
-- [How to change the language spell checker?](#how-to-change-the-language-spell-checker)
+- [How to become a beta tester?](#tester)
+- [How to transfer files between device and PC?](#transfer)
+- [How to change the language spell checker?](#spell_checker)
 
-### How to become a beta tester?
+### <a name="tester"></a>How to become a beta tester?
 
 Refer to https://www.techmesto.com/become-beta-tester-google-play/
 
-### How to transfer files between device and PC?
+###  <a name="transfer"></a>How to transfer files between device and PC?
 
 Steps of Windows Transfer:
 
@@ -24,6 +24,6 @@ Steps of Windows Transfer:
 
 For Mac Transfer and more information, please refer to: https://support.google.com/nexus/answer/2840804
 
-### How to change the language spell checker?
+### <a name="spell_checker"></a>How to change the language spell checker?
 
 The spellcheck depends on the system settings of the device. Please go to System Settings -> Language & input -> Spell checker -> Language, and change the language.
